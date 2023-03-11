@@ -12,44 +12,39 @@ https://zhuan.mlsao.xyz/
 圈x免流配置文件可按规则分流：（此配置文件需要有国内节点来搭配使用，如果没有国内节点的话可以自己修改分流内容，也可以购买下面我自己用的免流机场。）导入配置文件到圈x后添加自己的订阅链接就可以直接按规则分流了！，联通电信都可以！！）
 
 
+
+
 我的电报聊天室：https://t.me/MSC4652 
-
-
 
 
 我的电报频道：https://t.me/MSCNUAN4652
 
 
+我的Twitter：https://twitter.com/MSC51843693
 
 
-我的Twitter：MSC暖
+自用推荐的免流机场:
+
+橘子（有国内节点，稳定，有独立app和魔改的免流模块，搭配使用效果不错！！）：https://wogame.org/#/register?code=jowAtNrh
 
 
+elkcloud（便宜流量大，有免费试用，要稳定还是推荐橘子。）：https://www.elkcloud.top/auth/register?code=8Wkm
 
 
-
-推荐免流机场:
-
-
-v2云：
- https://cwv587.com/auth/register?code=4BXq 
-
-（这家有免费节点试用，但是不稳定，建议使用付费的，挺稳定的，很少遇到超时的情况。）
-
-
-
-免流骚： 
-https://mlsao.xyz/#/register?code=zkuefpP5
-
-（这家国内节点很多，还有一次性付费的订阅，挺划算的，还有独家的订阅转换，每次我都是拿别的免流机场在这的订阅转换一键混淆的。）
-
-qtycloud免流机场：
-
-https://wwa.qtycloud.xyz/auth/register?code=8Wkm
-
-（这家节点少但是很稳定，不过广停只有两个，无国内节点，但胜在稳定、最低可购买0.50元30g的体验套餐，个人建议购买8元1000g的不限速套餐）
+网盘免流内容获取：加入tg群输入：网盘合集或网盘内容获取！
 
 
 
 
-iOS购买各类代理软件和其它区账号网址：http://makamaka.cc/
+各种免费实惠电话卡选购网址（有售后的联系我！）：http://www.91haoka.cn/91haoka_platform/#/minishop?share_id=374115&shop_name=%25E6%259A%2596%25E6%259A%25964652
+
+
+
+购卡QQ（处理售后问题）： https://t.me/MSCNUAN4652/1591
+
+
+
+我的微信公众号： https://t.me/MSCNUAN4652/1136
+
+
+
