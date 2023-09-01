@@ -22,6 +22,11 @@ SKY VPN （便宜流量大，有免费试用。）：https://www.skyvpn.one/auth
 
 
 
+![下载](https://github.com/MSCNUAN/quantumultx-configuration-file/assets/77392262/5cd062a2-5fa0-4adb-8d3c-7c2b039f0915)
+
+
+
+
 
 
 各种免费实惠电话卡选购网址（三大运营商官方都可查，放心购买！）：https://51haoka.store/index?k=YktYNmtrWTN2R1k9
