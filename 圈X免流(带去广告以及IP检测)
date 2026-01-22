@@ -175,24 +175,7 @@ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLi
 ;https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJS商店版@chavyleung, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/box.png, update-interval=86400, opt-parser=false, enabled=false
 
 [server_local]
-#本地节点
-#更新时间2021-12-10
 
-trojan=www.zx07.top:443, password=L1qNeGrY58ApwrRA, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=我的电报聊天室：https://t.me/MSC4652 
-trojan=hk31.ssgnode.ga:443, password=41742_920c8caa, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=我的电报频道：https://t.me/MSCNUAN4652
-shadowsocks=p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=我的电报聊天室：https://t.me/MSC4652 
-shadowsocks=ssr3.ssrsub.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=我的电报频道：https://t.me/MSCNUAN4652
-shadowsocks=14.29.124.174:20700, method=aes-128-cfb, password=QazEdcTgb159@$*, fast-open=false, udp-relay=false, tag=我的电报聊天室：https://t.me/MSC4652 
-trojan=hk31.ssgnode.ga:443, password=41742_920c8caa, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=我的电报频道：https://t.me/MSCNUAN4652
-trojan=www.zx07.top:443, password=L1qNeGrY58ApwrRA, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=我的电报聊天室：https://t.me/MSC4652 
-
-
-
-shadowsocks=173.82.186.25:60000, method=none, password=enter, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定① 关注公众号：ios黑科技
-shadowsocks=173.82.245.228:60000, method=none, password=libev, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定② 关注公众号：ios黑科技
-shadowsocks=173.82.226.134:60001, method=none, password=enter, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=稳定③ 关注公众号：ios黑科技
-
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐
 
 [filter_local]
 
