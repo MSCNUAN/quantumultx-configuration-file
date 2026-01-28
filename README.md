@@ -1,26 +1,39 @@
-# 📱 Quantumult X 免流/分流 配置文件
+# 🌊 暖暖Quantumult X 懒人配置 (国内免流特供版)
 
-![GitHub stars](https://img.shields.io/github/stars/MSCNUAN/quantumultx-configuration-file?style=flat-square&color=ff69b4)
-![GitHub last commit](https://img.shields.io/github/last-commit/MSCNUAN/quantumultx-configuration-file?style=flat-square&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/MSCNUAN/QuantumultX?style=flat-square&color=ff69b4)
+![GitHub last commit](https://img.shields.io/github/last-commit/MSCNUAN/QuantumultX?style=flat-square&color=orange)
 ![Author](https://img.shields.io/badge/Author-NuanNuan-blue?style=flat-square)
 
 > ⚠️ **写在前面**：
-> 本仓库提供的配置文件主要针对 **Quantumult X (圈X)** 用户。
-> 内容相对久远，规则可能需要根据现行网络环境进行微调，欢迎各位大佬进行 **二改** 和 **优化**。
+> * 本配置专为 **小白用户** 打造，主打“懒人免流”与“纯净体验”。
+> * 配置修改自大佬 **墨鱼 (@ddgksf2013)** 的作品，感谢开源精神！
+> * 规则可能随网络环境变化，欢迎提交 Issue 反馈或进行二改优化。
 
 ## 📂 文件说明
 
 | 文件名 | 说明 |
 | :--- | :--- |
-| `电信、联通圈x配置2（精简版...）.conf` | 适用于电信/联通的免流配置，精简了部分规则，保留了核心 VIP 解锁功能。 |
+| `Profile.conf` | **暖暖自用主配置**。集成国内免流策略、去开屏广告、VIP 解锁、Boxjs 订阅等功能。 |
+
+## 🌟 核心特色
+
+1.  **📶 独家国内免流**：预设 `国内流量` 策略组，通过正则自动筛选国内/免流节点（需搭配含免流节点的机场）。
+2.  **🚫 全方位净化**：强力去除主流 App（微博、知乎、开屏广告等）干扰。
+3.  **⚡️ 自动优选**：每 15 分钟自动检测并连接最快节点，拒绝手动测速。
+4.  **🛡 贴心优化**：内置 Boxjs 订阅接口，默认拦截 iOS 系统更新。
 
 ## 🛠 使用说明
 
-1.  **核心原理**：此配置可按规则分流，实现免流效果。
+1.  **核心原理**：
+    * 利用 Quantumult X 的策略分流功能，将国内流量指向指定的免流节点，实现定向免流。
 2.  **必备条件**：
-    * 需要搭配 **国内节点** 使用（这是免流生效的关键！）。
-    * 如果没有国内节点，请自行修改分流规则，或参考下方推荐的资源。
-3.  **导入方式**：点击上方文件名 -> 点击 `Raw` -> 复制链接 -> 在 Quantumult X 中引用下载。
+    * **必须搭配国内节点使用！** (这是免流生效的关键)。
+    * 你的机场需要支持免流（通常节点名会包含“免流”字样），或你拥有免流卡对应的混淆参数。
+3.  **导入方式**：
+    * 点击上方文件名 `Profile.conf` -> 点击 `Raw` -> 复制链接。
+    * 在 Quantumult X 右下角风车 -> 配置文件 -> 下载。
+4.  **开启免流**：
+    * 导入后在 QX 首页点击圆球图标 -> 找到 **「国内流量」** 策略组 -> 选中你的免流节点。
 
 ---
 
