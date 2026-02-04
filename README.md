@@ -67,7 +67,7 @@
 
 ### 🛒 流量 & 账号服务
 
-* **📶 正规运营商流量卡**：【📶 [点击下单](https://www.51haoka.cc/index?k=YktYNmtrWTN2R1k9)】
+* **📶 正规运营商流量卡**：【📶 [点击下单](https://bankala.cn/s/f25188b9)】
 * **💳 Bitget Wallet (免费外币卡)**：【👉 [点击申请](https://web3.bitget.com/share/1gWULE?inviteCode=NUAN1145)】
 * **🔶 币安 (Binance) 交易所**：【💰 [注册领新手礼](https://www.bmwweb.academy/referral/earn-together/refer2earn-usdc/claim?hl=zh-TC&ref=GRO_28502_RAE9X&utm_source=default)】
 * **🍎 Apple ID / 充值卡 / 代理**：【🍎 [购买链接](https://goso002.com/?from=24529)】
